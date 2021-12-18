@@ -1,0 +1,9 @@
+(1)The purpose of the data exploration is to help us to understand the type of data we are dealing with and see the problems that may occur beforehand.
+
+(2)there might be some missing values or some irrelevant points on irrelevant comments. Also, there might be some comments that contain both positive and negative aspect so this can be misleading. To identify the characteristics that reveal that the customers' comments are positive or negative, i would look at the most common words that are used. Then i would assign these words with a value between 1-5 according that they are positive or negative and then list them. Then for the score of a comment I would look at the average of the sum of the scores of the words it contains from that list before.
+
+(3)Missing values should be taking care of because these missing values may have an important impact on the outcome of our work. They can contain some important values we can use or that can change the whole outcome. 
+
+(4)I think that outliers have an impact on dataset that we can not ignore. They are usually the values that does not follow the pattern of our dataset. They can impact the outcomes like mean, standard deviation or such things and hence they can change the assumptions we would make in the dataset, which can cause serious problems because outliers are usually few and the dataset is not shaped according to them.
+
+(5) I would first start with the data cleaning(removing irrelevant data and outliers,removing duplicates, filling the missing data,etc). After that i would continue with exploration of the data. 
